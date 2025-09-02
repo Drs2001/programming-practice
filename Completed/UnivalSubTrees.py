@@ -1,3 +1,10 @@
+# Author: Dylan Spence
+
+'''
+https://medium.com/@khemanta/counting-unival-subtrees-a-google-challenge-6ecfc4c4d4c6
+Counting Unival Subtrees:
+'''
+
 class nodes:
     def __init__(self, value, left_node=None, right_node=None):
         self.value = value
